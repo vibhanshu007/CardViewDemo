@@ -9,7 +9,7 @@ public class InfoGetAndSet {
     private String designation;
     private boolean gender;
 
-    InfoGetAndSet(String name,String designation,boolean gender){
+    InfoGetAndSet(String name,boolean gender,String designation){
 
         this.designation=designation;
         this.name=name;
